@@ -13,7 +13,7 @@
 
 ## About Me
 
-<img align="right" alt="Cyberpunk Coding" width="400" src="https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/c7742638-8f65-4a43-9445-f12c68169050" />
+<img align="right" alt="Cyberpunk Coding" width="400" src="https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/e1304ec2-4860-4409-97ce-08b04ac2b72d" />
 
 I'm an **AI & Machine Learning Engineer**, **Data Scientist**, and **Full-Stack Developer** passionate about building intelligent systems that solve real-world problems.
 
