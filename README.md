@@ -20,7 +20,7 @@ I'm an **AI & Machine Learning Engineer**, **Data Scientist**, and **Full-Stack 
 - 🔭 Currently working on **AI-powered applications & data-driven solutions**
 - 🌱 Exploring **Deep Learning, NLP, and Computer Vision**
 - 💬 Ask me about **Python, Flutter, Firebase, Machine Learning**
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **[ezazalienx2001@gmail.com]**
 - ⚡ Fun fact: **I love turning data into stories**
 
 <br clear="right"/>
