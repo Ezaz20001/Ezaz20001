@@ -13,7 +13,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/techstack.gif" />
+<img align="right" alt="Cyberpunk Coding" width="400" src="https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/c7742638-8f65-4a43-9445-f12c68169050" />
 
 I'm an **AI & Machine Learning Engineer**, **Data Scientist**, and **Full-Stack Developer** passionate about building intelligent systems that solve real-world problems.
 
